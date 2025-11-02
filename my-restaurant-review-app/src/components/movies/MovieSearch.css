@@ -1,0 +1,18 @@
+.movie-search {
+  margin: 30px 0;
+}
+
+.movie-search .input-group {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.movie-search input {
+  border: none;
+  padding: 15px;
+}
+
+.movie-search button {
+  border: none;
+  padding: 0 25px;
+}

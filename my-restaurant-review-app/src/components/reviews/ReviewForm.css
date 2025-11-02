@@ -1,0 +1,17 @@
+.review-form {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.movie-info {
+  text-align: center;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.movie-poster-small {
+  max-width: 150px;
+  border-radius: 8px;
+  margin-top: 10px;
+}

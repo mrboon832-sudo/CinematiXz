@@ -1,0 +1,8 @@
+.create-review-page {
+  padding: 30px 0;
+  min-height: calc(100vh - 200px);
+}
+
+.search-results {
+  margin-top: 30px;
+}

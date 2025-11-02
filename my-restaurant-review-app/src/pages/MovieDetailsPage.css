@@ -1,0 +1,9 @@
+.movie-details-page {
+  padding: 30px 0;
+  min-height: calc(100vh - 200px);
+}
+
+.reviews-section {
+  border-top: 2px solid #dee2e6;
+  padding-top: 30px;
+}

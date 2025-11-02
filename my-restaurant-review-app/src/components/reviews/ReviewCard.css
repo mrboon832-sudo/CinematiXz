@@ -1,0 +1,20 @@
+.review-card {
+  border-left: 4px solid #0d6efd;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.review-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-title-link:hover {
+  color: #0d6efd !important;
+  text-decoration: underline;
+}
+
+.review-meta {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #dee2e6;
+}
