@@ -13,7 +13,11 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: config.clientUrl,
+  origin: [
+    'http://localhost:3000',
+    'https://restaurant-review-app-96a74.web.app',
+    'https://restaurant-review-app-96a74.firebaseapp.com'
+  ],
   credentials: true,
 }));
 
